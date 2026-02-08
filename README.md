@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F3349D&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Md+Fahad%2C+a+CSE+undergraduate+'27+from+Hyderabad;I'm+a+passionate+developer+building+scalable+web+apps;Building+AI-powered+solutions+and+real-world+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F3349D&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Md+Fahad%2C+a+CSE+undergraduate+'27+from+Hyderabad+India;I'm+a+passionate+developer+building+scalable+web+applications+and+AI-powered+solutions.)](https://git.io/typing-svg)
 <br><br>🎓 Computer Science Engineering Student | 💻 Frontend Developer | 🤖 AI & GenAI Enthusiast<br><br>I’m a passionate developer who loves building scalable web applications and AI-powered solutions. I enjoy turning ideas into real-world products using modern technologies and cloud platforms. Currently exploring Generative AI, Machine Learning, and system design while strengthening my full-stack skills.<br>⭐ Always open to learning, collaborating, and building impactful tech!
 
 
